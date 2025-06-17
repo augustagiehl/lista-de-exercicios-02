@@ -1,0 +1,12 @@
+# Ignorar pastas
+node_modules/
+dist/
+.vscode/
+.DS_Store
+
+# Ignorar arquivos
+*.env
+*.log
+
+# Arquivo temporário criado pelo Code Runner
+tempCodeRunnerFile.js
